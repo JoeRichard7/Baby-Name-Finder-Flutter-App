@@ -1,16 +1,46 @@
-# baby_name_app
+# 👶 Baby Name Finder App
 
-A new Flutter project.
+A beautiful and user-friendly Flutter mobile application to help parents find the perfect baby name. The app includes powerful search capabilities, filter options, and detailed insights into each name including meaning, gender, origin, and religion. Parents can also favorite names and share them easily.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 **Smart Search** – Easily search for baby names based on letters or keywords.
+- 🧩 **Filters** – Filter names by gender, religion, or origin.
+- ⭐ **Favorites** – Save your favorite names for quick access.
+- 📖 **Detailed Info** – View meaning, gender, and cultural significance for each name.
+- 📤 **Share** – Share names with family and friends instantly.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 App Screenshots
+
+### 🔍 Select Baby screen  
+![Select baby](https://github.com/user-attachments/assets/47afbb21-94eb-46c0-a575-3eb557f339b7)
+
+
+### 🔍 Select Religion  
+![Select Religion](https://github.com/user-attachments/assets/145a09c4-0383-4eb1-bb62-0167c1f9395f)
+
+
+### 🏠 Home Page  
+![Baby names](https://github.com/user-attachments/assets/054de29e-2a73-4e44-9e47-308280d668b0)
+![Twin Baby names](https://github.com/user-attachments/assets/3e684634-920b-4927-9c20-a59a8dc1526d)
+
+
+### ⚙️ Filters  
+![Filters](https://github.com/user-attachments/assets/6754cfa1-b916-4fb6-b7b5-f20d7ab628ef)
+
+
+---
+
+## 🛠️ Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/your-username/baby_name_app.git
+cd baby_name_app
+flutter pub get
+flutter run
