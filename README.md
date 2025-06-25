@@ -14,6 +14,28 @@ A beautiful and user-friendly Flutter mobile application to help parents find th
 
 ---
 
+
+## 📸 App Screenshots
+
+### 🔍 Select Baby Screen  
+<img src="https://github.com/user-attachments/assets/47afbb21-94eb-46c0-a575-3eb557f339b7" width="250"/>
+
+### 🔍 Select Religion  
+<img src="https://github.com/user-attachments/assets/145a09c4-0383-4eb1-bb62-0167c1f9395f" width="250"/>
+
+### 🏠 Home Page  
+<img src="https://github.com/user-attachments/assets/054de29e-2a73-4e44-9e47-308280d668b0" width="250"/>
+<img src="https://github.com/user-attachments/assets/3e684634-920b-4927-9c20-a59a8dc1526d" width="250"/>
+
+### ⚙️ Filters  
+<img src="https://github.com/user-attachments/assets/6754cfa1-b916-4fb6-b7b5-f20d7ab628ef" width="250"/>
+
+### ⭐ Favourites  
+<img src="https://github.com/user-attachments/assets/ae5d0fb1-8913-40fa-b3dc-86510fb470df" width="250"/>
+
+
+
+
 ## 📸 App Screenshots
 
 ### 🔍 Select Baby screen  
@@ -31,6 +53,11 @@ A beautiful and user-friendly Flutter mobile application to help parents find th
 
 ### ⚙️ Filters  
 ![Filters](https://github.com/user-attachments/assets/6754cfa1-b916-4fb6-b7b5-f20d7ab628ef)
+
+
+### ⭐ Favourites
+![WhatsApp Image 2025-06-25 at 09 48 46_c7cafbfe](https://github.com/user-attachments/assets/ae5d0fb1-8913-40fa-b3dc-86510fb470df)
+
 
 
 ---
